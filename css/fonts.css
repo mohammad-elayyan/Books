@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Rubik;
+    src: url(../fonts/Rubik/static/Rubik-Regular.ttf);
+}
+
+@font-face {
+    font-family: Acme;
+    src: url(../fonts/Acme/Acme-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lobster;
+    src: url(../fonts/Lobster/Lobster-Regular.ttf);
+}
+
+@font-face {
+    font-family: Sniglet;
+    src: url(../fonts/Sniglet/Sniglet-Regular.ttf);
+}
+
+@font-face {
+    font-family: Patua One;
+    src: url(../fonts/Patua_One/PatuaOne-Regular.ttf);
+}
